@@ -1,5 +1,5 @@
-# Лабораторна робота №3
+# LAB 3
 
-# Контейнеризація
+# Containerization
 
-У цьому репазиторії наведені приклади Docker файлів для Python, Golang, Node.JS
+In this repository there are Dockerfile examples for Python, Golang and Node.JS projects.
